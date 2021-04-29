@@ -1,6 +1,6 @@
 Hi, i'm Mateo 👋
 
-I'm a Full Stack Software Engineer with main focus on the JavaScript Environment. My tech stack includes (but is not limited to) React, Redux, React Native, Express, Koa, MongoDB, PostgreSQL, Node.js, TypeScript, GraphQL, Angular.
+I'm a Full Stack Software Engineer with main focus on the JavaScript environment. My tech stack includes (but is not limited to) React, Redux, React Native, Express, Koa, MongoDB, PostgreSQL, Node.js, TypeScript, GraphQL, Angular.
 
 I am currently working on the following project:
 
