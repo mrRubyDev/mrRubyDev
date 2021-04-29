@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi, i'm Mateo 👋
 
-<!--
-**mrRubyDev/mrRubyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Software Engineer with main focus on the JavaScript Environment. My tech stack includes (but is not limited to) React, Redux, React Native, Express, Koa, MongoDB, PostgreSQL, Node.js, TypeScript, GraphQL, Angular.
 
-Here are some ideas to get you started:
+I am currently working on the following project:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[EsBooky - client](https://github.com/mrRubyDev/EsBooky-client)
+
+[EsBooky - server](https://github.com/mrRubyDev/EsBooky-server)
+
+What I like to do in my spare time:
+
+💻 Programming personal projects and small business ideas.
+
+🎹 Songwriting and producing my own music.
+
+🌱 Travelling and meeting with friends and family.
