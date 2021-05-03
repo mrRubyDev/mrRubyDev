@@ -10,8 +10,8 @@ I am currently working on the following project:
 
 What I like to do in my spare time:
 
-💻 Programming personal projects and small business ideas.
+💻  Programming personal projects and small business ideas.
 
-🎹 Songwriting and producing my own music.
+🎹  Songwriting and producing my own music.
 
-🌱 Travelling and meeting with friends and family.
+🌱  Travelling and meeting with friends and family.
