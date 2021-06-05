@@ -4,9 +4,8 @@ I'm a Full Stack Software Engineer with main focus on the JavaScript environment
 
 I am currently working on the following project:
 
-[EsBooky - client](https://github.com/mrRubyDev/EsBooky-client)
+[ElysiumBridge](https://www.elysiumbridge.org/)
 
-[EsBooky - server](https://github.com/mrRubyDev/EsBooky-server)
 
 What I like to do in my spare time:
 
