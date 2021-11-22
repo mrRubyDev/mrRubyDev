@@ -10,4 +10,4 @@ What I like to do in my spare time:
 
 🎹  Songwriting and producing my own music.
 
-🌱  Travelling and meeting with friends and family.
+🌱  Travelling and spending time with friends and family.
